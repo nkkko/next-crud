@@ -60,6 +60,8 @@ And get your full featured CRUD routes!
 
 [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/next-crud-demo-qj3gn)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/premieroctet/next-crud)
+
 # Contributing
 
 You can run the example project to test your modifications. Make sure to run `yarn watch` in the root folder.
